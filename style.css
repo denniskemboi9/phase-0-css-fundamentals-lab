@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+header,
+section {
+  text-align: center;
+}
+div{
+  background-color: red;
+  min-height: 15em;
+  display: table-cell;
+  vertical-align: middle;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+
+{
+    padding-left: 10px;
+    padding-right: 10px;
+
+    background-color: gray;
+  }
+
+  #p1
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+#p2
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+
